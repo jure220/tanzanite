@@ -1,0 +1,2 @@
+debian/bin/tanzanited usr/bin
+src/tanzanited usr/lib/tanzanite
